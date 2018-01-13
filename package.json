@@ -1,0 +1,10 @@
+{
+  "name": "",
+  "version": "",
+  "dependencies": {
+    "express": "^4.16.2",
+    "hbs": "^4.0.1",
+    "mongoose": "^4.13.9",
+    "path": "^0.12.7"
+  }
+}
